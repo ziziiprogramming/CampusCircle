@@ -1,21 +1,44 @@
-## 📸 Screenshots
+# CampusCircle Screenshots
 
-### Home Page
+This folder contains screenshots showcasing the key features and user interface of CampusCircle, a student-centric campus marketplace and resource-sharing platform.
 
-![Home](Prototype-Screenshot/home.png)
+## Screenshots Included
 
-### Marketplace
+### 🏠 Home Page
+**File:** `home.png`
 
-![Marketplace](Prototype-Screenshot/marketplace.png)
+The landing page introducing CampusCircle's mission, marketplace, and student-focused value proposition.
 
-### Semester Survival Guide
+---
 
-![Guide](Prototype-Screenshot/guide.png)
+### 🛒 Marketplace
+**File:** `marketplace.png`
 
-### Messaging System
+The marketplace where students can browse, filter, buy, and sell academic resources such as textbooks, calculators, lab equipment, and stationery.
 
-![Messages](Prototype-Screenshot/messages.png)
+---
 
-### User Profile
+### 📚 Semester Survival Guide
+**File:** `survival guide.png`
 
-![Profile](Prototype-Screenshot/profile.png)
+A crowdsourced guide section where seniors can share academic advice, study resources, and semester tips with juniors.
+
+---
+
+### 💬 Messages
+**File:** `messages.png`
+
+The built-in messaging interface that enables communication between students for resource exchange and collaboration.
+
+---
+
+### 👤 Profile
+**File:** `profile.png`
+
+The user profile page displaying student information, verification status, listings, and activity statistics.
+
+---
+
+## Purpose
+
+These screenshots serve as visual documentation of the CampusCircle prototype and demonstrate the platform's core functionality and user experience.
