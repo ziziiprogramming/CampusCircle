@@ -82,6 +82,12 @@ The repository includes the academic research paper:
 
 ---
 
+## 📸 Application Screenshots
+
+All screenshots can be found in the [Screenshots](Screenshots) folder.
+
+---
+
 ## Future Scope
 - Multi-college expansion
 - Mobile application development
